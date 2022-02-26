@@ -1,0 +1,52 @@
+1.Insert
+2.Update
+3.Delete
+4.view all
+5.filter
+Enter your option
+2
+1row updated
+1.Insert
+2.Update
+3.Delete
+4.view all
+5.filter
+Enter your option
+4
+ Student_No	Student_Name	Student_DOB	Student_DOJ
+101	Komal patil	1999-10-10	2006-06-20
+102	Pooja Sharma	1999-11-09	2006-06-25
+103	Prachi Deshmukh	1999-01-08	2006-06-25
+104	Aarti Deshmukh	1999-05-08	2006-06-25
+105	Pari Shinde	1999-05-25	2006-06-25
+1.Insert
+2.Update
+3.Delete
+4.view all
+5.filter
+Enter your option
+1
+1row inserted
+1.Insert
+2.Update
+3.Delete
+4.view all
+5.filter
+Enter your option
+4
+ Student_No	Student_Name	Student_DOB	Student_DOJ
+101	Komal patil	1999-10-10	2006-06-20
+102	Pooja Sharma	1999-11-09	2006-06-25
+103	Prachi Deshmukh	1999-01-08	2006-06-25
+104	Aarti Deshmukh	1999-05-08	2006-06-25
+105	Pari Shinde	1999-05-25	2006-06-25
+105	sakhi rajput	1999-05-25	2006-06-25
+1.Insert
+2.Update
+3.Delete
+4.view all
+5.filter
+Enter your option
+5
+101 Komal patil 1999-10-10 2006-06-20
+java.sql.SQLException: Operation not allowed after ResultSet closed
